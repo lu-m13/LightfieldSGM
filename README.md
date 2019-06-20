@@ -1,4 +1,4 @@
-Code for A Semi-Global Matching method for large-scale light field images (https://ieeexplore.ieee.org/abstract/document/7471956/) and Using plane+ parallax for calibrating dense camera arrays
+Code for A Semi-Global Matching method for large-scale light field images (https://ieeexplore.ieee.org/abstract/document/7471956/) 
 =============
 
 ![Teaser](./teaser3.png)
