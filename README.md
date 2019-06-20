@@ -5,4 +5,6 @@ Code for A Semi-Global Matching method for large-scale light field images (https
 
 ## Acknowledgments
 
-Link to LF Dataset : https://people.csail.mit.edu/changil/light-field-depth/
+Link to Dataset : https://people.csail.mit.edu/changil/light-field-depth/
+
+Link to Dataset : http://lightfield.stanford.edu/lfs.html
